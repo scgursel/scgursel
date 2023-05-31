@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Servet Can Gürsel</h1>
 <h3 align="center">A passionate Mobile developer from Turkey</h3>
+<p align="center">I would like to cooperate with companies that work in fields that I am related to.</p>
+<p align="center">Open to collaborating on interesting and innovative projects. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scgursel&label=Profile%20views&color=0e75b6&style=flat" alt="scgursel" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Swift, Machine Learning topics**
-
+- 🌱 I’m currently learning **Swift, Flutter, ML/DL**
 - 📫 How to reach me **servetcangursel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
