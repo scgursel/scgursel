@@ -4,8 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scgursel&label=Profile%20views&color=0e75b6&style=flat" alt="scgursel" /> </p>
 
-- 💻 I’m currently working with  **Java, any kind of sql and pure javascript sometimes React framework**
-- 🌱 I’m currently learning  Spring JPA, Python, React, Swift and continuing to expand my skills.
+
+- 💻 Currently, I work with **Java, various SQL databases, and occasionally pure JavaScript, along with the React framework**.
+- 🌱 I’m currently learning  **Spring JPA, Python, React, Swift** and continuing to expand my skills.
 - 📫 How to reach me **servetcangursel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
